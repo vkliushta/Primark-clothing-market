@@ -1,0 +1,12 @@
+*.pic
+__pycache__
+.pytest_cache
+venv/
+node_modules/
+package-lock.json
+.idea
+Backend/prj./db.sqlite3
+/prj/main_app/migrations/
+/prj/media/
+/prj/db.sqlite3
+/prj/prj/config.py
